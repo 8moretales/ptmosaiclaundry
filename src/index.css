@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Lato', sans-serif;
+  }
+
+  body {
+    @apply antialiased text-[#441d1d];
+  }
+
+  input[type="text"],
+  textarea,
+  .react-datepicker__input-container input {
+    @apply border-[#d3d3d3] border-[1px] focus:border-[#eb5e55] focus:ring-[#eb5e55] px-8 py-2;
+  }
+
+  input[type="number"] {
+    @apply border-[#d3d3d3] border-[1px] focus:border-[#eb5e55] focus:ring-[#eb5e55] px-5 py-2;
+  }
+
+  input[type="radio"] {
+    @apply text-[#eb5e55] focus:ring-[#eb5e55];
+  }
+
+  input[type="checkbox"] {
+    @apply text-[#eb5e55] focus:ring-[#eb5e55] rounded;
+  }
+}
+
+.react-datepicker-wrapper {
+  @apply w-full;
+}
+
+.react-datepicker__input-container input {
+  @apply w-full rounded-md shadow-sm;
+}

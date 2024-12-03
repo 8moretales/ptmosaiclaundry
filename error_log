@@ -1,0 +1,36 @@
+[25-Nov-2024 03:26:14 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 45
+[25-Nov-2024 03:28:32 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 45
+[25-Nov-2024 03:28:45 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 45
+[25-Nov-2024 03:31:26 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 62
+[25-Nov-2024 03:31:34 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 62
+[25-Nov-2024 03:31:50 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 62
+[25-Nov-2024 03:32:59 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:90
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 90
+[25-Nov-2024 03:34:03 America/Boise] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 cannot be passed by reference in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php:90
+Stack trace:
+#0 {main}
+  thrown in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 90
+[25-Nov-2024 03:35:06 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 9
+[25-Nov-2024 03:35:06 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 10
+[25-Nov-2024 03:35:06 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 65
+[27-Nov-2024 23:27:29 America/Boise] PHP Parse error:  syntax error, unexpected variable "$order_date" in /home1/kntgfkmy/public_html/ptmosaic/laundry-tracker/8project/submit_order.php on line 45
